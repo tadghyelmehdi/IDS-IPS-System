@@ -1,0 +1,33 @@
+# ML models (regenerate with: python rf_model.py)
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Database
+security_log.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+flutter_dashboard/build/
+flutter_dashboard/.dart_tool/
+flutter_dashboard/.packages
+flutter_dashboard/pubspec.lock
