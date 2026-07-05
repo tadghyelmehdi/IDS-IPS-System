@@ -22,6 +22,9 @@ security_log.db
 *.iml
 .vscode/
 
+# Screenshots de presentation (trop nombreux)
+visualisations/pfe_screens/
+
 # OS
 .DS_Store
 Thumbs.db
@@ -31,3 +34,4 @@ flutter_dashboard/build/
 flutter_dashboard/.dart_tool/
 flutter_dashboard/.packages
 flutter_dashboard/pubspec.lock
+"visualisations/*.png" 
